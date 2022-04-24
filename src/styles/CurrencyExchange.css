@@ -1,0 +1,16 @@
+.equals {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.infoCorrect {
+  margin: 0;
+  margin-bottom: 0.5rem;
+  color: rgb(12, 130, 199);
+}
+
+.infoInCorrect {
+  margin: 0;
+  margin-bottom: 0.5rem;
+  color: rgb(241, 11, 11);
+}

@@ -1,0 +1,14 @@
+.currentDate {
+  margin: 0;
+  margin-bottom: 0.75rem;
+  background-color: rgb(230, 241, 219);
+  color: rgb(12, 130, 199);
+  font-size: 2rem;
+}
+
+.currentRate {
+  margin: 0;
+  margin-bottom: 0.75rem;
+  background-color: rgb(230, 241, 219);
+  font-size: 1.5rem;
+}
